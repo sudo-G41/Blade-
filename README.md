@@ -5,6 +5,8 @@ vba를 사용하여 작성된 자료입니다.
 ## 설명서
 ![image](https://user-images.githubusercontent.com/57341121/127309181-ec8eb745-3bb9-4f66-b5b9-202dad0826a6.png)
 
+엑셀에 보시면 설명서 란이 있습니다. 그곳 보시고 하시면 되어요!
+
 ## 주의사항
 1. 콘텐츠 사용
   ![image](https://user-images.githubusercontent.com/57341121/127309255-27254115-0a9b-4ccb-b9d3-7f5fab0ce74a.png) 
