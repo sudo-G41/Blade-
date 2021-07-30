@@ -3,6 +3,10 @@
 vba를 사용하여 작성된 자료입니다.
 
 ## 설명서
+![image](https://user-images.githubusercontent.com/57341121/127618677-8fa207c8-b3d1-41e4-ac65-d51ff9d5f3b5.png)<br>
+
+"이벤트 던전 파밍 해보자!" 시트로 가셔서 시작버튼을 눌러주시면 시작! 합니다...
+
 ![image](https://user-images.githubusercontent.com/57341121/127309181-ec8eb745-3bb9-4f66-b5b9-202dad0826a6.png)
 
 엑셀에 보시면 설명서 란이 있습니다. 그곳 보시고 하시면 되어요!
