@@ -10,8 +10,8 @@ vba를 사용하여 작성된 자료입니다.
 ## 주의사항
 1. 콘텐츠 사용
 
-  ![image](https://user-images.githubusercontent.com/57341121/127309255-27254115-0a9b-4ccb-b9d3-7f5fab0ce74a.png)
-<br>  콘텐츠 사용을 눌러주셔야 작동 합니다.
+  ![image](https://user-images.githubusercontent.com/57341121/127309255-27254115-0a9b-4ccb-b9d3-7f5fab0ce74a.png)<br>
+  콘텐츠 사용을 눌러주셔야 작동 합니다.
 
 2. 작성버전<br>
   최신 엑셀에서 작성되어 낮은 버전은 오류가 있을 수도있.... 크흠..
